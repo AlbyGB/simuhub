@@ -1,0 +1,6 @@
+[
+{
+  "directory": "/home/albyg/arch-dev",
+  "arguments": ["/usr/bin/gcc", "-c", "-m64", "-fvisibility=hidden", "-O3", "-I", "/home/albyg/.xmake/packages/r/raylib/6.0/08b8fd6b53744ed0ab7f41194d7546ad/include", "-DNDEBUG", "-o", "build/.objs/arch-dev/linux/x86_64/release/src/main.c.o", "src/main.c"],
+  "file": "src/main.c"
+}]
